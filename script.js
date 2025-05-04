@@ -1,3 +1,4 @@
+
 function number(num){
     let res=document.getElementById("screen")
     res.value+=num//res=res+num
